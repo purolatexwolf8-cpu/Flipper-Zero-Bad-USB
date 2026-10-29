@@ -2,7 +2,7 @@ REM made by Cyber Matt
 REM This script opens chrome, searches youtube, and auto plays rickrolls with no ads
 GUI r
 DELAY 2000
-STRING Chrome
+STRING Edge
 DELAY 2000
 ENTER
 DELAY 2000
